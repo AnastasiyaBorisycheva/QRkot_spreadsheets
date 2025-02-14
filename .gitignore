@@ -130,3 +130,7 @@ dmypy.json
 
 # .idea
 .idea
+
+requirements*.txt
+requirements.txt
+*.db
